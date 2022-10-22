@@ -1,6 +1,7 @@
 import urllib.request
 import ftplib
 import os
+from zipfile import ZipFile
 from datetime import date
 
 # head
@@ -13,7 +14,9 @@ class PigGetter:
     
     # Health
 
-    def getCNES(yearspace=(2017, date.today().year + 1), keep : bool = False, path : str = "") -> int:
+    def getCNES(yearspace=(2017, date.today().year + 1), keep_raw : bool = False, path : str = "") -> int:
+        if not os.path.exists(path):
+            os.mkdir(path)
         try:        
             newRequest = urllib.request.Request(CNESFTP)
             ftpConnection = ftplib.FTP()
@@ -28,7 +31,7 @@ class PigGetter:
                 for month in range(1, 13):
                     if month <= 9:
                         month = "0"+str(month)
-                    fileName = f"BASE_DE_DADOS_CNES_{year}{month}.ZIP"
+                        fileName = f"BASE_DE_DADOS_CNES_{year}{month}.ZIP"
                     try:
                         f = open(path + fileName, "wb")
                         ftpConnection.retrbinary(f"RETR "+fileName, f.write)
@@ -38,12 +41,18 @@ class PigGetter:
                         os.remove(path + fileName)
                     else:
                         print("Retrieved CNES:", year, month)
-                    finally:
                         if f:
                             f.close()
-                        if not keep and os.path.exists(path + fileName):
+                        print(path + fileName)
+                        cnesZip = ZipFile(path + fileName)
+                        csvName = "tbEstabelecimento"+str(year)+month+".csv"
+                        print(csvName)
+                        cnesZip.extract(csvName, path)
+                        if not keep_raw:
                             os.remove(path + fileName)
+                        
             ftpConnection.close()
+            
             return 0
             
-print(PigGetter.getCNES((2019, 2023), "test/"))
+print(PigGetter.getCNES((2019, 2023), keep_raw=False, path="test/"))
