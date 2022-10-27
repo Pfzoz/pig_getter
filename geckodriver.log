@@ -1,0 +1,1376 @@
+1666740804210	geckodriver	INFO	Listening on 127.0.0.1:47839
+1666740805207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3DekDM"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666740807029	Marionette	INFO	Marionette enabled
+1666740807035	Marionette	INFO	Listening on port 43035
+Read port: 43035
+1666740807284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3DekDM/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666740827214	Marionette	INFO	Stopped listening on port 43035
+1666741659758	geckodriver	INFO	Listening on 127.0.0.1:58191
+1666741659761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile5lddTU"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666741660138	Marionette	INFO	Marionette enabled
+1666741660141	Marionette	INFO	Listening on port 39771
+Read port: 39771
+1666741660224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5lddTU/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666741666892	Marionette	INFO	Stopped listening on port 39771
+1666741692815	geckodriver	INFO	Listening on 127.0.0.1:38621
+1666741692818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile1dk76F"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666741693202	Marionette	INFO	Marionette enabled
+1666741693205	Marionette	INFO	Listening on port 41233
+Read port: 41233
+1666741693282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1dk76F/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666741704986	Marionette	INFO	Stopped listening on port 41233
+1666741822872	geckodriver	INFO	Listening on 127.0.0.1:33561
+1666741822876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiled5dttO"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666741823272	Marionette	INFO	Marionette enabled
+1666741823275	Marionette	INFO	Listening on port 33983
+Read port: 33983
+1666741823348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled5dttO/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666742170527	geckodriver	INFO	Listening on 127.0.0.1:49185
+1666742170530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilevpK0Iv"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666742170941	Marionette	INFO	Marionette enabled
+1666742170944	Marionette	INFO	Listening on port 39547
+Read port: 39547
+1666742171177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevpK0Iv/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666742183140	Marionette	INFO	Stopped listening on port 39547
+1666742571313	geckodriver	INFO	Listening on 127.0.0.1:46163
+1666742571316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileld3hMy"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666742571708	Marionette	INFO	Marionette enabled
+1666742571710	Marionette	INFO	Listening on port 42289
+Read port: 42289
+1666742571782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileld3hMy/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666742584417	Marionette	INFO	Stopped listening on port 42289
+1666742604414	geckodriver	INFO	Listening on 127.0.0.1:38099
+1666742604417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilejgxwpl"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666742604811	Marionette	INFO	Marionette enabled
+1666742604814	Marionette	INFO	Listening on port 35071
+Read port: 35071
+1666742605036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejgxwpl/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666742618584	Marionette	INFO	Stopped listening on port 35071
+1666742709039	geckodriver	INFO	Listening on 127.0.0.1:47975
+1666742709043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3c6aHF"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666742709431	Marionette	INFO	Marionette enabled
+1666742709434	Marionette	INFO	Listening on port 40587
+Read port: 40587
+1666742709500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3c6aHF/search.json.mozlz4", (void 0)))
+1666742736816	Marionette	INFO	Stopped listening on port 40587
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1666742741827	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1666742745195	geckodriver	INFO	Listening on 127.0.0.1:36953
+1666742745198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiley0t9v5"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666742745580	Marionette	INFO	Marionette enabled
+1666742745583	Marionette	INFO	Listening on port 43931
+Read port: 43931
+1666742745655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley0t9v5/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666742866883	geckodriver	INFO	Listening on 127.0.0.1:48809
+1666742866887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3tKYwH"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666742867294	Marionette	INFO	Marionette enabled
+1666742867297	Marionette	INFO	Listening on port 40277
+Read port: 40277
+1666742867529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3tKYwH/search.json.mozlz4", (void 0)))
+1666742869619	Marionette	INFO	Stopped listening on port 40277
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1666742869951	Marionette	INFO	Stopped listening on port 43931
+1666742870239	Marionette	INFO	Stopped listening on port 33983
+1666742872670	geckodriver	INFO	Listening on 127.0.0.1:43713
+1666742872673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileV3OPAc"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666742873075	Marionette	INFO	Marionette enabled
+1666742873078	Marionette	INFO	Listening on port 37301
+Read port: 37301
+1666742873319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV3OPAc/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666742915211	Marionette	INFO	Stopped listening on port 37301
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666742918531	geckodriver	INFO	Listening on 127.0.0.1:35257
+1666742918534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileGtjjOz"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666742918922	Marionette	INFO	Marionette enabled
+1666742918925	Marionette	INFO	Listening on port 33587
+Read port: 33587
+1666742918981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGtjjOz/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666742942344	Marionette	INFO	Stopped listening on port 33587
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666743229736	geckodriver	INFO	Listening on 127.0.0.1:52249
+1666743229739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileee0z3b"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666743230140	Marionette	INFO	Marionette enabled
+1666743230143	Marionette	INFO	Listening on port 44637
+Read port: 44637
+1666743230374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileee0z3b/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666743301114	geckodriver	INFO	Listening on 127.0.0.1:33729
+1666743301117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileUbLT5P"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666743301516	Marionette	INFO	Marionette enabled
+1666743301519	Marionette	INFO	Listening on port 45773
+Read port: 45773
+1666743301764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUbLT5P/search.json.mozlz4", (void 0)))
+1666743303517	Marionette	INFO	Stopped listening on port 44637
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666743485961	geckodriver	INFO	Listening on 127.0.0.1:37403
+1666743485964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilehmcp5W"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666743486347	Marionette	INFO	Marionette enabled
+1666743486349	Marionette	INFO	Listening on port 32895
+Read port: 32895
+1666743486423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehmcp5W/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666743517234	Marionette	INFO	Stopped listening on port 32895
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666743697535	Marionette	INFO	Stopped listening on port 45773
+1666743857913	geckodriver	INFO	Listening on 127.0.0.1:52939
+1666743857916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileoNxSOS"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666743858301	Marionette	INFO	Marionette enabled
+1666743858303	Marionette	INFO	Listening on port 44279
+Read port: 44279
+1666743858372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoNxSOS/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666743934737	geckodriver	INFO	Listening on 127.0.0.1:33681
+1666743934740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXn5pr0"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666743935117	Marionette	INFO	Marionette enabled
+1666743935120	Marionette	INFO	Listening on port 46271
+Read port: 46271
+1666743935194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXn5pr0/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666744045138	geckodriver	INFO	Listening on 127.0.0.1:43975
+1666744045141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiles8zI9Q"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666744045528	Marionette	INFO	Marionette enabled
+1666744045530	Marionette	INFO	Listening on port 35889
+Read port: 35889
+1666744045610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles8zI9Q/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666744136728	Marionette	INFO	Stopped listening on port 35889
+1666744137128	Marionette	INFO	Stopped listening on port 46271
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666744137436	Marionette	INFO	Stopped listening on port 44279
+1666744589607	geckodriver	INFO	Listening on 127.0.0.1:45843
+1666744589610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileAvfPNo"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666744589996	Marionette	INFO	Marionette enabled
+1666744589999	Marionette	INFO	Listening on port 37121
+Read port: 37121
+1666744590060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAvfPNo/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sidra.ibge.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sidra.ibge.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sidra.ibge.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sidra.ibge.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sidra.ibge.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sidra.ibge.gov.br."
+1666747332499	geckodriver	INFO	Listening on 127.0.0.1:54839
+1666747332503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileIcAoMF"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666747332909	Marionette	INFO	Marionette enabled
+1666747332912	Marionette	INFO	Listening on port 45005
+Read port: 45005
+1666747333146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIcAoMF/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666747361548	Marionette	INFO	Stopped listening on port 45005
+1666747527472	geckodriver	INFO	Listening on 127.0.0.1:60537
+1666747527476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilekuvrHe"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666747527880	Marionette	INFO	Marionette enabled
+1666747527883	Marionette	INFO	Listening on port 33221
+Read port: 33221
+1666747528601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekuvrHe/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666747620556	geckodriver	INFO	Listening on 127.0.0.1:44469
+1666747620559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePWbyZ9"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666747620974	Marionette	INFO	Marionette enabled
+1666747620977	Marionette	INFO	Listening on port 37873
+Read port: 37873
+1666747621226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePWbyZ9/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666747707582	geckodriver	INFO	Listening on 127.0.0.1:55177
+1666747707585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCy093v"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666747707992	Marionette	INFO	Marionette enabled
+1666747707994	Marionette	INFO	Listening on port 36949
+Read port: 36949
+1666747708231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCy093v/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666747841829	geckodriver	INFO	Listening on 127.0.0.1:40109
+1666747841833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilesOsNxy"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666747842250	Marionette	INFO	Marionette enabled
+1666747842252	Marionette	INFO	Listening on port 44897
+Read port: 44897
+1666747842490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesOsNxy/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666747894958	Marionette	INFO	Stopped listening on port 36949
+1666747896539	Marionette	INFO	Stopped listening on port 44897
+1666747896764	Marionette	INFO	Stopped listening on port 37873
+1666747896979	Marionette	INFO	Stopped listening on port 33221
+1666747897313	Marionette	INFO	Stopped listening on port 37121
+1666748455933	geckodriver	INFO	Listening on 127.0.0.1:37863
+1666748455936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQ77HTx"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666748456367	Marionette	INFO	Marionette enabled
+1666748456370	Marionette	INFO	Listening on port 33961
+Read port: 33961
+1666748456608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQ77HTx/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666748500504	geckodriver	INFO	Listening on 127.0.0.1:37233
+1666748500507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilecswre0"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666748500935	Marionette	INFO	Marionette enabled
+1666748500938	Marionette	INFO	Listening on port 38303
+Read port: 38303
+1666748501151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecswre0/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666748726396	Marionette	INFO	Stopped listening on port 33961
+1666748761846	geckodriver	INFO	Listening on 127.0.0.1:39105
+1666748761849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileJs2iXo"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666748762255	Marionette	INFO	Marionette enabled
+1666748762258	Marionette	INFO	Listening on port 35063
+Read port: 35063
+1666748762497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJs2iXo/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666748826131	geckodriver	INFO	Listening on 127.0.0.1:46591
+1666748826135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile7RhCH9"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666748826553	Marionette	INFO	Marionette enabled
+1666748826556	Marionette	INFO	Listening on port 38551
+Read port: 38551
+1666748826789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7RhCH9/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666748829317	Marionette	INFO	Stopped listening on port 35063
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666748829743	Marionette	INFO	Stopped listening on port 38303
+1666748902976	geckodriver	INFO	Listening on 127.0.0.1:40925
+1666748902979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilenRtBRs"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666748903392	Marionette	INFO	Marionette enabled
+1666748903395	Marionette	INFO	Listening on port 37297
+Read port: 37297
+1666748903650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenRtBRs/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666748906034	Marionette	INFO	Stopped listening on port 38551
+1666748963638	geckodriver	INFO	Listening on 127.0.0.1:47023
+1666748963641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileN7nBbp"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666748964065	Marionette	INFO	Marionette enabled
+1666748964068	Marionette	INFO	Listening on port 34219
+Read port: 34219
+1666748964307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN7nBbp/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666748967786	Marionette	INFO	Stopped listening on port 37297
+1666749643527	geckodriver	INFO	Listening on 127.0.0.1:53863
+1666749643530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNbdBh1"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666749643945	Marionette	INFO	Marionette enabled
+1666749643947	Marionette	INFO	Listening on port 34917
+Read port: 34917
+1666749644192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNbdBh1/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666749707853	geckodriver	INFO	Listening on 127.0.0.1:44047
+1666749707856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile1zitqZ"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666749708282	Marionette	INFO	Marionette enabled
+1666749708285	Marionette	INFO	Listening on port 40261
+Read port: 40261
+1666749708517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1zitqZ/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666749728859	Marionette	INFO	Stopped listening on port 40261
+1666749729204	Marionette	INFO	Stopped listening on port 34917
+1666749729506	Marionette	INFO	Stopped listening on port 34219
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1666749746069	geckodriver	INFO	Listening on 127.0.0.1:46873
+1666749746072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilelQteFV"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666749746485	Marionette	INFO	Marionette enabled
+1666749746488	Marionette	INFO	Listening on port 32905
+Read port: 32905
+1666749746734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelQteFV/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666749868888	geckodriver	INFO	Listening on 127.0.0.1:58869
+1666749868891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileIGrRhQ"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666749869306	Marionette	INFO	Marionette enabled
+1666749869309	Marionette	INFO	Listening on port 39601
+Read port: 39601
+1666749870043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIGrRhQ/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666750005031	Marionette	INFO	Stopped listening on port 39601
+1666750016938	geckodriver	INFO	Listening on 127.0.0.1:43109
+1666750016942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilejAQXju"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666750017356	Marionette	INFO	Marionette enabled
+1666750017358	Marionette	INFO	Listening on port 39289
+Read port: 39289
+1666750017582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejAQXju/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666750137064	geckodriver	INFO	Listening on 127.0.0.1:40081
+1666750137067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilep7Selj"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666750137493	Marionette	INFO	Marionette enabled
+1666750137504	Marionette	INFO	Listening on port 42909
+Read port: 42909
+1666750137819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep7Selj/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666750139470	Marionette	INFO	Stopped listening on port 39289
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+1666750139828	Marionette	INFO	Stopped listening on port 32905
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666750213623	geckodriver	INFO	Listening on 127.0.0.1:39041
+1666750213626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileMTbzwR"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666750214069	Marionette	INFO	Marionette enabled
+1666750214072	Marionette	INFO	Listening on port 45115
+Read port: 45115
+1666750214228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMTbzwR/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666750216338	Marionette	INFO	Stopped listening on port 42909
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666750529903	Marionette	INFO	Stopped listening on port 45115
+1666750571398	geckodriver	INFO	Listening on 127.0.0.1:38325
+1666750571401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileOZFBXk"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666750571806	Marionette	INFO	Marionette enabled
+1666750571808	Marionette	INFO	Listening on port 34639
+Read port: 34639
+1666750572043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOZFBXk/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666750696927	geckodriver	INFO	Listening on 127.0.0.1:45407
+1666750696931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilef3tLqq"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666750697339	Marionette	INFO	Marionette enabled
+1666750697342	Marionette	INFO	Listening on port 45501
+Read port: 45501
+1666750698068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef3tLqq/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666750760846	Marionette	INFO	Stopped listening on port 34639
+1666750847460	geckodriver	INFO	Listening on 127.0.0.1:33791
+1666750847464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile8vXoGE"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666750847883	Marionette	INFO	Marionette enabled
+1666750847887	Marionette	INFO	Listening on port 37509
+Read port: 37509
+1666750848126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8vXoGE/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666750890835	geckodriver	INFO	Listening on 127.0.0.1:48239
+1666750890839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileY528qF"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666750891250	Marionette	INFO	Marionette enabled
+1666750891253	Marionette	INFO	Listening on port 40333
+Read port: 40333
+1666750891494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY528qF/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666750892486	Marionette	INFO	Stopped listening on port 37509
+1666750892788	Marionette	INFO	Stopped listening on port 45501
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666751050358	geckodriver	INFO	Listening on 127.0.0.1:36497
+1666751050362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile4edoTp"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666751050787	Marionette	INFO	Marionette enabled
+1666751050789	Marionette	INFO	Listening on port 35169
+Read port: 35169
+1666751051028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4edoTp/search.json.mozlz4", (void 0)))
+1666751052270	Marionette	INFO	Stopped listening on port 40333
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666751094145	Marionette	INFO	Stopped listening on port 35169
+1666751096039	geckodriver	INFO	Listening on 127.0.0.1:38897
+1666751096042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilezDExjU"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666751096457	Marionette	INFO	Marionette enabled
+1666751096460	Marionette	INFO	Listening on port 38883
+Read port: 38883
+1666751096704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezDExjU/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666751136832	Marionette	INFO	Stopped listening on port 38883
+1666752538977	geckodriver	INFO	Listening on 127.0.0.1:51505
+1666752538980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile9FANCr"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666752539409	Marionette	INFO	Marionette enabled
+1666752539412	Marionette	INFO	Listening on port 42513
+Read port: 42513
+1666752539652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9FANCr/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666752947566	geckodriver	INFO	Listening on 127.0.0.1:48855
+1666752947569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilekntepK"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666752947990	Marionette	INFO	Marionette enabled
+1666752947993	Marionette	INFO	Listening on port 45719
+Read port: 45719
+1666752948225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekntepK/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666753001428	Marionette	INFO	Stopped listening on port 42513
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666753010732	Marionette	INFO	Stopped listening on port 45719
+1666753016452	geckodriver	INFO	Listening on 127.0.0.1:33043
+1666753016455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileANWPDL"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666753016871	Marionette	INFO	Marionette enabled
+1666753016873	Marionette	INFO	Listening on port 33731
+Read port: 33731
+1666753017101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileANWPDL/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666753062294	geckodriver	INFO	Listening on 127.0.0.1:55557
+1666753062297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRCxRNY"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666753062707	Marionette	INFO	Marionette enabled
+1666753062709	Marionette	INFO	Listening on port 46401
+Read port: 46401
+1666753062939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRCxRNY/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666753130905	Marionette	INFO	Stopped listening on port 46401
+1666753340029	geckodriver	INFO	Listening on 127.0.0.1:44431
+1666753340032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileM9x8D4"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666753340438	Marionette	INFO	Marionette enabled
+1666753340441	Marionette	INFO	Listening on port 40823
+Read port: 40823
+1666753340666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileM9x8D4/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666753466378	geckodriver	INFO	Listening on 127.0.0.1:34595
+1666753466381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVNfBd7"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666753466799	Marionette	INFO	Marionette enabled
+1666753466802	Marionette	INFO	Listening on port 37461
+Read port: 37461
+1666753467032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVNfBd7/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666753537827	geckodriver	INFO	Listening on 127.0.0.1:56295
+1666753537830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile4fMKCf"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666753538237	Marionette	INFO	Marionette enabled
+1666753538240	Marionette	INFO	Listening on port 40355
+Read port: 40355
+1666753538472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4fMKCf/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666753656529	geckodriver	INFO	Listening on 127.0.0.1:41469
+1666753656533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileieaegS"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666753656954	Marionette	INFO	Marionette enabled
+1666753656957	Marionette	INFO	Listening on port 32777
+Read port: 32777
+1666753657192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileieaegS/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666753676143	Marionette	INFO	Stopped listening on port 32777
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1666753677068	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1666753696343	geckodriver	INFO	Listening on 127.0.0.1:58547
+1666753696346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVS21Wj"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666753696763	Marionette	INFO	Marionette enabled
+1666753696766	Marionette	INFO	Listening on port 37565
+Read port: 37565
+1666753697001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVS21Wj/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666753762456	geckodriver	INFO	Listening on 127.0.0.1:38459
+1666753762460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileObDTPx"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666753762870	Marionette	INFO	Marionette enabled
+1666753762873	Marionette	INFO	Listening on port 44125
+Read port: 44125
+1666753763118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileObDTPx/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666754176703	geckodriver	INFO	Listening on 127.0.0.1:39579
+1666754176707	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCpVmeN"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666754177121	Marionette	INFO	Marionette enabled
+1666754177123	Marionette	INFO	Listening on port 41391
+Read port: 41391
+1666754177359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCpVmeN/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666754231818	geckodriver	INFO	Listening on 127.0.0.1:33049
+1666754231821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilerwI8zD"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666754232243	Marionette	INFO	Marionette enabled
+1666754232246	Marionette	INFO	Listening on port 36645
+Read port: 36645
+1666754232978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerwI8zD/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666754255387	Marionette	INFO	Stopped listening on port 41391
+1666754255791	Marionette	INFO	Stopped listening on port 44125
+1666754256103	Marionette	INFO	Stopped listening on port 37565
+1666754256354	Marionette	INFO	Stopped listening on port 40355
+1666754256603	Marionette	INFO	Stopped listening on port 37461
+1666754256887	Marionette	INFO	Stopped listening on port 40823
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666754257224	Marionette	INFO	Stopped listening on port 33731
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666754274894	Marionette	INFO	Stopped listening on port 36645
+1666754365701	geckodriver	INFO	Listening on 127.0.0.1:51375
+1666754365704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilenTm7pe"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666754366109	Marionette	INFO	Marionette enabled
+1666754366119	Marionette	INFO	Listening on port 46447
+Read port: 46447
+1666754366345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenTm7pe/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666754589938	geckodriver	INFO	Listening on 127.0.0.1:40267
+1666754589942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileK7s8hf"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666754590374	Marionette	INFO	Marionette enabled
+1666754590377	Marionette	INFO	Listening on port 44313
+Read port: 44313
+1666754590612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK7s8hf/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666754612298	Marionette	INFO	Stopped listening on port 46447
+1666754671829	Marionette	INFO	Stopped listening on port 44313
+1666754729728	geckodriver	INFO	Listening on 127.0.0.1:47201
+1666754729732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQAsBSi"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666754730150	Marionette	INFO	Marionette enabled
+1666754730152	Marionette	INFO	Listening on port 39935
+Read port: 39935
+1666754730388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQAsBSi/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666754855398	geckodriver	INFO	Listening on 127.0.0.1:52595
+1666754855401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile9E5jkg"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666754855804	Marionette	INFO	Marionette enabled
+1666754855807	Marionette	INFO	Listening on port 32863
+Read port: 32863
+1666754856042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9E5jkg/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666754954600	geckodriver	INFO	Listening on 127.0.0.1:42821
+1666754954604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileSUpc8P"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666754955013	Marionette	INFO	Marionette enabled
+1666754955016	Marionette	INFO	Listening on port 35737
+Read port: 35737
+1666754955244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSUpc8P/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666754985240	Marionette	INFO	Stopped listening on port 35737
+1666754985472	Marionette	INFO	Stopped listening on port 32863
+1666754985697	Marionette	INFO	Stopped listening on port 39935
+1666754987393	geckodriver	INFO	Listening on 127.0.0.1:58967
+1666754987396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileN6fZHO"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666754987799	Marionette	INFO	Marionette enabled
+1666754987801	Marionette	INFO	Listening on port 44849
+Read port: 44849
+1666754988034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN6fZHO/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666755002927	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666755004140	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666755005491	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666755016569	geckodriver	INFO	Listening on 127.0.0.1:34743
+1666755016572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileTT1506"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666755016994	Marionette	INFO	Marionette enabled
+1666755016996	Marionette	INFO	Listening on port 37287
+Read port: 37287
+1666755017238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTT1506/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666755060519	geckodriver	INFO	Listening on 127.0.0.1:46199
+1666755060522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileKtVhU3"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666755060930	Marionette	INFO	Marionette enabled
+1666755060932	Marionette	INFO	Listening on port 45985
+Read port: 45985
+1666755061361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKtVhU3/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666755099206	Marionette	INFO	Stopped listening on port 45985
+1666755102754	Marionette	INFO	Stopped listening on port 37287
+1666755103113	Marionette	INFO	Stopped listening on port 44849
+1666755105988	geckodriver	INFO	Listening on 127.0.0.1:53031
+1666755105991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileWUK0se"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666755106409	Marionette	INFO	Marionette enabled
+1666755106411	Marionette	INFO	Listening on port 38599
+Read port: 38599
+1666755106663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWUK0se/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666755772242	geckodriver	INFO	Listening on 127.0.0.1:58325
+1666755772245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilexI4Yxm"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666755772631	Marionette	INFO	Marionette enabled
+1666755772634	Marionette	INFO	Listening on port 44657
+Read port: 44657
+1666755772708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexI4Yxm/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666755818496	geckodriver	INFO	Listening on 127.0.0.1:50673
+1666755818500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileYL8c77"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666755818884	Marionette	INFO	Marionette enabled
+1666755818887	Marionette	INFO	Listening on port 40541
+Read port: 40541
+1666755818956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYL8c77/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666756382192	geckodriver	INFO	Listening on 127.0.0.1:57339
+1666756382195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilelJ2TLL"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666756382591	Marionette	INFO	Marionette enabled
+1666756382594	Marionette	INFO	Listening on port 35961
+Read port: 35961
+1666756382667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelJ2TLL/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666756489899	Marionette	INFO	Stopped listening on port 35961
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666756490155	Marionette	INFO	Stopped listening on port 38599
+1666756490526	Marionette	INFO	Stopped listening on port 40541
+1666756490823	Marionette	INFO	Stopped listening on port 44657
+1666778187954	geckodriver	INFO	Listening on 127.0.0.1:46047
+1666778188946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileo8bv96"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666778191017	Marionette	INFO	Marionette enabled
+1666778191033	Marionette	INFO	Listening on port 35311
+Read port: 35311
+1666778191403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileo8bv96/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666778263184	Marionette	INFO	Stopped listening on port 35311
+1666778265747	geckodriver	INFO	Listening on 127.0.0.1:47935
+1666778265750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileqC9fvR"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666778266132	Marionette	INFO	Marionette enabled
+1666778266135	Marionette	INFO	Listening on port 35359
+Read port: 35359
+1666778266202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqC9fvR/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666778328537	Marionette	INFO	Stopped listening on port 35359
+1666778332659	geckodriver	INFO	Listening on 127.0.0.1:39077
+1666778332662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileZnOWJh"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666778333041	Marionette	INFO	Marionette enabled
+1666778333044	Marionette	INFO	Listening on port 39113
+Read port: 39113
+1666778333111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZnOWJh/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666778463603	geckodriver	INFO	Listening on 127.0.0.1:43055
+1666778463606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0MDM3X"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666778463980	Marionette	INFO	Marionette enabled
+1666778463982	Marionette	INFO	Listening on port 37303
+Read port: 37303
+1666778464044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0MDM3X/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666778538771	geckodriver	INFO	Listening on 127.0.0.1:42531
+1666778538774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXan7py"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666778539153	Marionette	INFO	Marionette enabled
+1666778539156	Marionette	INFO	Listening on port 45583
+Read port: 45583
+1666778539264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXan7py/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666778607605	geckodriver	INFO	Listening on 127.0.0.1:33339
+1666778607608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileylU46L"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666778607980	Marionette	INFO	Marionette enabled
+1666778607982	Marionette	INFO	Listening on port 35145
+Read port: 35145
+1666778608072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileylU46L/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666778667580	geckodriver	INFO	Listening on 127.0.0.1:34931
+1666778667583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilerxTBg9"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666778667988	Marionette	INFO	Marionette enabled
+1666778667991	Marionette	INFO	Listening on port 35115
+Read port: 35115
+1666778668234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerxTBg9/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666778716576	Marionette	INFO	Stopped listening on port 35115
+1666778717062	Marionette	INFO	Stopped listening on port 35145
+1666778717550	Marionette	INFO	Stopped listening on port 45583
+1666778718027	Marionette	INFO	Stopped listening on port 37303
+1666778721413	Marionette	INFO	Stopped listening on port 39113
+1666778755481	geckodriver	INFO	Listening on 127.0.0.1:35853
+1666778755484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileucb2Wz"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666778755869	Marionette	INFO	Marionette enabled
+1666778755871	Marionette	INFO	Listening on port 44651
+Read port: 44651
+1666778755939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileucb2Wz/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666778844950	Marionette	INFO	Stopped listening on port 44651
+1666778847278	geckodriver	INFO	Listening on 127.0.0.1:59131
+1666778847281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileEdAvsw"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666778847657	Marionette	INFO	Marionette enabled
+1666778847660	Marionette	INFO	Listening on port 33517
+Read port: 33517
+1666778847731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEdAvsw/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666778956592	geckodriver	INFO	Listening on 127.0.0.1:56635
+1666778956595	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile1EEJgO"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666778957000	Marionette	INFO	Marionette enabled
+1666778957003	Marionette	INFO	Listening on port 36423
+Read port: 36423
+1666778957233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1EEJgO/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666779010313	Marionette	INFO	Stopped listening on port 33517
+1666779101931	geckodriver	INFO	Listening on 127.0.0.1:46529
+1666779101934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileMWtiKd"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666779102313	Marionette	INFO	Marionette enabled
+1666779102316	Marionette	INFO	Listening on port 36649
+Read port: 36649
+1666779102411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMWtiKd/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666779572340	geckodriver	INFO	Listening on 127.0.0.1:45419
+1666779572343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVUG54x"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666779572739	Marionette	INFO	Marionette enabled
+1666779572742	Marionette	INFO	Listening on port 44239
+Read port: 44239
+1666779573193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVUG54x/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666779628595	geckodriver	INFO	Listening on 127.0.0.1:33569
+1666779628598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiledAYhnz"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666779628992	Marionette	INFO	Marionette enabled
+1666779628995	Marionette	INFO	Listening on port 43095
+Read port: 43095
+1666779629060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledAYhnz/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666779804798	geckodriver	INFO	Listening on 127.0.0.1:56911
+1666779804801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileE1DGL0"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666779805181	Marionette	INFO	Marionette enabled
+1666779805184	Marionette	INFO	Listening on port 46189
+Read port: 46189
+1666779805249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE1DGL0/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666779906383	geckodriver	INFO	Listening on 127.0.0.1:59513
+1666779906387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileypCPGk"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666779906775	Marionette	INFO	Marionette enabled
+1666779906778	Marionette	INFO	Listening on port 39151
+Read port: 39151
+1666779906847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileypCPGk/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666779930140	Marionette	INFO	Stopped listening on port 39151
+1666779938485	Marionette	INFO	Stopped listening on port 46189
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666779939043	Marionette	INFO	Stopped listening on port 43095
+1666779939568	Marionette	INFO	Stopped listening on port 44239
+1666779940130	Marionette	INFO	Stopped listening on port 36649
+1666779942175	geckodriver	INFO	Listening on 127.0.0.1:53221
+1666779942178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilemfzlpF"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666779942580	Marionette	INFO	Marionette enabled
+1666779942583	Marionette	INFO	Listening on port 38907
+Read port: 38907
+1666779942812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemfzlpF/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666782818469	geckodriver	INFO	Listening on 127.0.0.1:37609
+1666782818472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileaguSum"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666782818854	Marionette	INFO	Marionette enabled
+1666782818856	Marionette	INFO	Listening on port 41963
+Read port: 41963
+1666782818937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaguSum/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666782861285	Marionette	INFO	Stopped listening on port 41963
+1666785235169	Marionette	INFO	Stopped listening on port 38907
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilemfzlpF/protections.sqlite
+1666802998447	geckodriver	INFO	Listening on 127.0.0.1:45025
+1666802999442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileELqLDf"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666803000052	Marionette	INFO	Marionette enabled
+1666803000073	Marionette	INFO	Listening on port 46835
+Read port: 46835
+1666803000249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileELqLDf/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sidra.ibge.gov.br."
+1666803288266	geckodriver	INFO	Listening on 127.0.0.1:43327
+1666803288269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiledsteBO"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666803288654	Marionette	INFO	Marionette enabled
+1666803288657	Marionette	INFO	Listening on port 42149
+Read port: 42149
+1666803288730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledsteBO/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666803341676	Marionette	INFO	Stopped listening on port 42149
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666803342236	Marionette	INFO	Stopped listening on port 46835
+1666811129341	geckodriver	INFO	Listening on 127.0.0.1:57787
+1666811130338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileeO7sYI"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666811132152	Marionette	INFO	Marionette enabled
+1666811132158	Marionette	INFO	Listening on port 46367
+Read port: 46367
+1666811132397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeO7sYI/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666811262534	geckodriver	INFO	Listening on 127.0.0.1:44545
+1666811262537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile9igTJi"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666811262912	Marionette	INFO	Marionette enabled
+1666811262915	Marionette	INFO	Listening on port 36695
+Read port: 36695
+1666811263002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9igTJi/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666811372332	geckodriver	INFO	Listening on 127.0.0.1:40099
+1666811372335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiletsUUoe"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666811372714	Marionette	INFO	Marionette enabled
+1666811372716	Marionette	INFO	Listening on port 44399
+Read port: 44399
+1666811372799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletsUUoe/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666811408043	Marionette	INFO	Stopped listening on port 44399
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666811408589	Marionette	INFO	Stopped listening on port 36695
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666811409118	Marionette	INFO	Stopped listening on port 46367
+1666811413441	geckodriver	INFO	Listening on 127.0.0.1:33813
+1666811413445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilekwBtB8"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666811413833	Marionette	INFO	Marionette enabled
+1666811413835	Marionette	INFO	Listening on port 40327
+Read port: 40327
+1666811413900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekwBtB8/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sidra.ibge.gov.br."
+1666811624400	geckodriver	INFO	Listening on 127.0.0.1:58937
+1666811624404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0ecZyl"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666811624782	Marionette	INFO	Marionette enabled
+1666811624784	Marionette	INFO	Listening on port 46197
+Read port: 46197
+1666811624849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0ecZyl/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666811692767	Marionette	INFO	Stopped listening on port 46197
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666811693436	Marionette	INFO	Stopped listening on port 40327
+1666811696041	geckodriver	INFO	Listening on 127.0.0.1:43889
+1666811696045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilerA6vKl"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666811696427	Marionette	INFO	Marionette enabled
+1666811696430	Marionette	INFO	Listening on port 39823
+Read port: 39823
+1666811696496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerA6vKl/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666811740245	Marionette	INFO	Stopped listening on port 39823
+1666811909047	geckodriver	INFO	Listening on 127.0.0.1:60921
+1666811909050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile1xuzRN"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666811909433	Marionette	INFO	Marionette enabled
+1666811909435	Marionette	INFO	Listening on port 39177
+Read port: 39177
+1666811909504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1xuzRN/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666811992823	geckodriver	INFO	Listening on 127.0.0.1:38885
+1666811992826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilevEHc8L"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666811993219	Marionette	INFO	Marionette enabled
+1666811993222	Marionette	INFO	Listening on port 46689
+Read port: 46689
+1666811993283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevEHc8L/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+1666812007011	Marionette	INFO	Stopped listening on port 46689
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1666812014812	geckodriver	INFO	Listening on 127.0.0.1:45543
+1666812014815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileH8OVif"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666812015199	Marionette	INFO	Marionette enabled
+1666812015202	Marionette	INFO	Listening on port 40329
+Read port: 40329
+1666812015279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH8OVif/search.json.mozlz4", (void 0)))
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/editor-tabela.js, line 1679: unreachable code after return statement
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sidra.ibge.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sidra.ibge.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sidra.ibge.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sidra.ibge.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sidra.ibge.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sidra.ibge.gov.br."
+JavaScript warning: https://sidra.ibge.gov.br/Scripts/jquery.sidra.utils.js, line 648: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666812097227	Marionette	INFO	Stopped listening on port 40329
+1666818204751	Marionette	INFO	Stopped listening on port 39177
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile1xuzRN/protections.sqlite
