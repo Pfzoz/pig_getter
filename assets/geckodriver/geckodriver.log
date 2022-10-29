@@ -1,0 +1,11 @@
+1666708217496	geckodriver	INFO	Listening on 127.0.0.1:57615
+1666708218492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilennONtk"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666708220342	Marionette	INFO	Marionette enabled
+1666708220348	Marionette	INFO	Listening on port 41811
+Read port: 41811
+1666708220689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilennONtk/search.json.mozlz4", (void 0)))
+1666708231920	Marionette	INFO	Stopped listening on port 41811

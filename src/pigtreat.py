@@ -1,12 +1,10 @@
 import pandas as pd
-from selenium import webdriver
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.common.keys import Keys
-#from selenium.webdriver.firefox.webelement import FirefoxWebElement
-#FirefoxWebElement.get_attribute()
-import time
+
+## head
 
 municipios = pd.read_excel("assets/municipios.xls")
+
+## body
 
 def treat_cnes(year : str, month : str, csv_path : str = ""):
     cnesFrame = pd.read_csv(csv_path, sep=';', encoding="latin")
@@ -43,57 +41,27 @@ def treat_cnes(year : str, month : str, csv_path : str = ""):
     print(cnesFrame)
     cnesFrame.to_csv(csv_path)
 
-def sidraKiller(table_code, variables, mail : str, panels : dict, file_name : str, years=()):
-    # Driver
-    driver = webdriver.Firefox()
-    driver.get("https://sidra.ibge.gov.br/tabela/"+str(table_code))
-    driver.maximize_window()
-    time.sleep(10)
-    # Layout
-    for tr in driver.find_elements_by_class_name("na-coluna"):
-        if "Ano" in tr.text:
-            ActionChains(driver).drag_and_drop(tr, driver.find_elements_by_class_name("na-linha")[0]).perform()
+def treat_PAM(excel_path : str = '', save_path : str = '') -> None:
+    if save_path == '':
+        save_path = save_path + excel_path.split(".xlsx")[0] + str("_treated.csv")
+    pamFrame = pd.read_excel(excel_path, header=3)
+    pamFrame.rename(columns={"Unnamed: 0": "COD", "Unnamed: 1": "NOME", "Unnamed: 2": "ANO"}, inplace=True)
+    changer = pamFrame.at[0, "COD"]
+    scatterer = 0
+    for i, item in enumerate(pamFrame["COD"]):
+        if pamFrame.at[i, "COD"] != changer and pd.notna(pamFrame.at[i, "COD"]) != False:
             break
-    # Variables
-    varPanel = driver.find_element_by_id("panel-V")
-    for i, e in enumerate(varPanel.find_elements_by_class_name("lv-row")):
-        if i in variables:
-            e.find_element_by_class_name("sidra-toggle").click()
-    # Classifications
-    for key in panels.keys():
-        specificPanel = driver.find_element_by_id("panel-"+key)
-        if "all" in panels[key]:
-            for btn in specificPanel.find_elements_by_class_name("cmd-lista"):
-                if btn.get_attribute("data-cmd") == "marcarTudo":
-                    btn.click()
+        scatterer += 1
+    for i, item in enumerate(pamFrame["COD"]):
+        if i == 0 or i % scatterer == 0:
+            changer = item
         else:
-            pass
-    # Period
-    yearPanel = driver.find_element_by_id("panel-P")
-    correctBox = yearPanel.find_elements_by_class_name("lv-block")[-1]
-    for i, e in enumerate(correctBox.find_elements_by_class_name("lv-row")):
-        if int(e.find_element_by_class_name("sidra-check").text) in years:
-            e.find_element_by_class_name("sidra-toggle").click()
-    # Territorial Level
-    terrPanel = driver.find_element_by_id("panel-T")
-    for i, r in enumerate(terrPanel.find_elements_by_class_name("sidra-check")):
-        if r.text[:9] == "Município":
-            r.find_element_by_class_name("sidra-toggle").click()
-    driver.find_element_by_id("botao-downloads").click()
-    time.sleep(1)
-    modDownloads = driver.find_element_by_id("modal-downloads")
-    modDownloads.find_elements_by_class_name("checkbox-inline")[3].click()
-    modDownloads.find_elements_by_class_name("checkbox-inline")[7].click()
-    driver.find_element_by_id("posteriori-email").send_keys(mail)
-    fControls = modDownloads.find_elements_by_class_name("form-control")
-    for f in fControls:
-        if f.get_attribute("name") == "nome-arquivo":
-            f.send_keys(file_name)
-    modDownloads.find_element_by_id("opcao-downloads").click()
-    
-def treatPAM(csv_path : str = ""):
-    pamFrame = pd.read_csv("")
+            pamFrame.at[i, "COD"] = changer
+    for i, item in enumerate(pamFrame["NOME"]):
+        if i == 0 or i % scatterer == 0:
+            changer = item
+        else:
+            pamFrame.at[i, "NOME"] = changer
+    pamFrame.drop(pamFrame.index[-1], inplace=True)
+    pamFrame.to_csv(save_path)
 
-
-
-sidraKiller("5457", mail="pedrozoz.sizaan@gmail.com", years=(2020, 2019, 2018, 2017, 2016, 2015),variables=[0, 4], panels={"C782":["all"]}, file_name="PAM_20202015_TN")
