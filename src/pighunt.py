@@ -20,42 +20,80 @@ class Pighunt:
     def __init__(self, sidra_login : tuple, sidra_driver : str = "assets/geckodriver"):
         self.sidraCredentials = sidra_login
         self.sidraDriver = sidra_driver
-    
+
     # Macros
 
+    def get_pop(self, save_path : str="Pop/", treat : bool = True):
+        if not os.path.exists(save_path):
+            os.mkdir(save_path)
+        name, where = None, None
+        for i in range(1, 3):
+            threads = []
+            for ia in range(1, 3):
+                if i == 1: name="HOMENS"
+                else: name="MULHERES"
+                if ia == 1: where="URBANO"
+                else: where="RURAL"
+                threads.append(self.sidra_thread(table_code="200", variables=[0], panels={"C2":[i], "C1":[ia], "C58":[1, 8, 14, 20, 26, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42]}, file_name=f"POP_{name}_{where}_20101970", save_path=save_path, years=(1970, 1980, 1991, 2000, 2010), naLinha=["Grupo de idade"], naColuna=["Ano"]))
+                threads.append(self.sidra_thread(table_code="200", variables=[0], panels={"C2":[i], "C1":[ia], "C58":[43]}, file_name=f"POP_{name}_{where}_19911970_80", save_path=save_path, years=(1970, 1980, 1991), naLinha=["Grupo de idade"], naColuna=["Ano"]))
+                threads.append(self.sidra_thread(table_code="200", variables=[0], panels={"C2":[i], "C1":[ia], "C58":[44, 45, 46, 47]}, file_name=f"POP_{name}_{where}_20102000_81", save_path=save_path, years=(2000,2010), naLinha=["Grupo de idade"], naColuna=["Ano"]))
+            for t in threads:
+                if t:
+                    t.join()
+            while threading.active_count() > 1:
+                pass
+        for path in os.listdir(save_path):
+            if path.startswith("POP"):
+                pigtreat.treat_pop(excel_path=save_path+path)
+        pigtreat.treat_pop_dir(save_path)
+
     def get_pam(self, save_path : str= "Agro/", treat : bool = True, yearspace=(1974, date.today().year + 6), y_interval : int = 6, aqui_yspace=(2013, date.today().year + 1)):
+        threads = []
         if not os.path.exists(save_path):
             os.mkdir(save_path)
         for y in range(*yearspace, y_interval):
+            threads = []
             year = y
             #Lavouras
-            self.sidra_thread(table_code="5457", variables=[0], panels={"C782":["all"]}, file_name=f"PAM_LAVOURAS_{year}{year+y_interval}_PLANTIO", save_path=save_path, years=range(year, year+y_interval+1))
-            self.sidra_thread(table_code="5457", variables=[2], panels={"C782":["all"]}, file_name=f"PAM_LAVOURAS_{year}{year+y_interval}_COLHEITA", save_path=save_path, years=range(year, year+y_interval+1))
-            self.sidra_thread(table_code="5457", variables=[4], panels={"C782":["all"]}, file_name=f"PAM_LAVOURAS_{year}{year+y_interval}_QTD", save_path=save_path, years=range(year, year+y_interval+1))
-            self.sidra_thread(table_code="5457", variables=[6], panels={"C782":["all"]}, file_name=f"PAM_LAVOURAS_{year}{year+y_interval}_VALOR", save_path=save_path, years=range(year, year+y_interval+1))
+            threads.append(self.sidra_thread(table_code="5457", variables=[0], panels={"C782":["all"]}, file_name=f"PAM_LAVOURAS_{year}{year+y_interval}_PLANTIO", save_path=save_path, years=range(year, year+y_interval+1)))
+            threads.append(self.sidra_thread(table_code="5457", variables=[2], panels={"C782":["all"]}, file_name=f"PAM_LAVOURAS_{year}{year+y_interval}_COLHEITA", save_path=save_path, years=range(year, year+y_interval+1)))
+            threads.append(self.sidra_thread(table_code="5457", variables=[4], panels={"C782":["all"]}, file_name=f"PAM_LAVOURAS_{year}{year+y_interval}_QTD", save_path=save_path, years=range(year, year+y_interval+1)))
+            threads.append(self.sidra_thread(table_code="5457", variables=[6], panels={"C782":["all"]}, file_name=f"PAM_LAVOURAS_{year}{year+y_interval}_VALOR", save_path=save_path, years=range(year, year+y_interval+1)))
             #OrigemAnimal
-            self.sidra_thread(table_code="74", variables=[0], panels={"C80":["all"]}, file_name=f"PAM_ORIGEMANIMAL_{year}{year+y_interval}_PROD", save_path=save_path, years=range(year, year+y_interval+1))
-            self.sidra_thread(table_code="74", variables=[1], panels={"C80":["all"]}, file_name=f"PAM_ORIGEMANIMAL_{year}{year+y_interval}_VALOR", save_path=save_path, years=range(year, year+y_interval+1))
+            threads.append(self.sidra_thread(table_code="74", variables=[0], panels={"C80":["all"]}, file_name=f"PAM_ORIGEMANIMAL_{year}{year+y_interval}_PROD", save_path=save_path, years=range(year, year+y_interval+1)))
+            threads.append(self.sidra_thread(table_code="74", variables=[1], panels={"C80":["all"]}, file_name=f"PAM_ORIGEMANIMAL_{year}{year+y_interval}_VALOR", save_path=save_path, years=range(year, year+y_interval+1)))
             #Pecuaria
-            self.sidra_thread(table_code="3939", variables=[0], panels={"C79":["all"]}, file_name=f"PAM_PECUARIA_{year}{year+y_interval}_EFETIVO", save_path=save_path, years=range(year, year+y_interval+1))
+            threads.append(self.sidra_thread(table_code="3939", variables=[0], panels={"C79":["all"]}, file_name=f"PAM_PECUARIA_{year}{year+y_interval}_EFETIVO", save_path=save_path, years=range(year, year+y_interval+1)))
+            for t in threads:
+                if t:
+                    t.join()
             while threading.active_count() > 1:
                 pass
-        for y in range(*aqui_yspace, y_interval):
-            year = y
-            self.sidra_thread(table_code="3940", variables=[0], panels={"C654":["all"]}, file_name=f"PAM_AQUICULTURA_{year}{year+y_interval}_PROD", save_path=save_path, years=range(year, year+y_interval+1))
-            self.sidra_thread(table_code="3940", variables=[1], panels={"C654":["all"]}, file_name=f"PAM_AQUICULTURA_{year}{year+y_interval}_VALOR", save_path=save_path, years=range(year, year+y_interval+1))
-            while threading.active_count() > 1:
-                pass
+        if aqui_yspace:
+            for y in range(*aqui_yspace, y_interval):
+                threads = []
+                year = y
+                threads.append(self.sidra_thread(table_code="3940", variables=[0], panels={"C654":["all"]}, file_name=f"PAM_AQUICULTURA_{year}{year+y_interval}_PROD", save_path=save_path, years=range(year, year+y_interval+1)))
+                threads.append(self.sidra_thread(table_code="3940", variables=[1], panels={"C654":["all"]}, file_name=f"PAM_AQUICULTURA_{year}{year+y_interval}_VALOR", save_path=save_path, years=range(year, year+y_interval+1)))
+                while threading.active_count() > 1:
+                    pass
+                for t in threads:
+                    if t:
+                        t.join()
+                while threading.active_count() > 1:
+                    pass
         if treat:
             for path in os.listdir(save_path):
-                if path.startswith("PAM_"):
+                if path.startswith("PAM_") and path.endswith("_treated.csv") == False:
                     pigtreat.treat_PAM(save_path + path)
 
 
     # Sidra
+
     def sidra_thread(self, **kwargs):
         thread = threading.Thread(target=self.sidra_req, kwargs=kwargs)
         thread.start()
+        return thread
 
     def sidra_get(self, file_name : str, mail : str = None, password : str = None, download_path : str = str(os.path.expanduser('~'))+"/Downloads/", save_path : str = ""):
         if not mail or not password:
@@ -110,11 +148,11 @@ class Pighunt:
         shutil.copyfile(download_path+file_name+".xlsx", save_path+file_name+".xlsx")
         os.remove(download_path+file_name+".xlsx")
         
-    def sidra_req(self, table_code, variables, panels : dict, file_name : str, save_path : str = '', years=(), mail : str = None, password : str = None, autoget : bool = True) -> None:
+    def sidra_req(self, table_code, variables, panels : dict, file_name : str, save_path : str = '', years=(), mail : str = None, password : str = None, autoget : bool = True, **kwargs) -> None:
         if not mail or not password:
             mail, password = self.sidraCredentials
         # Driver
-        driver = webdriver.Firefox(executable_path=self.sidraDriver)
+        driver = webdriver.Firefox()
         driver.get("https://sidra.ibge.gov.br/tabela/"+str(table_code))
         while True:
             time.sleep(0.5)
@@ -123,10 +161,26 @@ class Pighunt:
                 break
         print("Resquesting... "+file_name)
         # Layout
-        for tr in driver.find_elements_by_class_name("na-coluna"):
-            if "Ano" in tr.text:
-                ActionChains(driver).drag_and_drop(tr, driver.find_elements_by_class_name("na-linha")[0]).perform()
-                break
+        if kwargs.get("naColuna"):
+            draggers = kwargs.get("naColuna")
+            for item in draggers:
+                trs = driver.find_elements_by_class_name("na-coluna")
+                if trs:
+                    for tr in trs:
+                        if item in tr.text:
+                            ActionChains(driver).drag_and_drop(tr, driver.find_elements_by_class_name("na-linha")[0]).perform()
+                            time.sleep(0.2)
+                            break    
+        if kwargs.get("naLinha"):
+            draggers = kwargs.get("naLinha")
+            for item in draggers:
+                trs = driver.find_elements_by_class_name("na-linha")
+                if trs:
+                    for tr in trs:
+                        if item in tr.text:
+                            ActionChains(driver).drag_and_drop(tr, driver.find_elements_by_class_name("na-coluna")[0]).perform()
+                            time.sleep(0.2)
+                            break    
         # Variables
         varPanel = driver.find_element_by_id("panel-V")
         for i, e in enumerate(varPanel.find_elements_by_class_name("lv-row")):
@@ -148,6 +202,8 @@ class Pighunt:
                         btn.click()
             else:
                 for row in rows:
+                    if not row.find_elements_by_class_name("item-lista"):
+                        continue
                     itemList = row.find_element_by_class_name("item-lista")
                     if row.text != '' and int(itemList.get_attribute("data-indice")) in panels[key]:
                         sidraToggle = row.find_element_by_class_name("sidra-toggle")
@@ -189,6 +245,15 @@ class Pighunt:
             if f.get_attribute("name") == "nome-arquivo":
                 f.send_keys(file_name)
         modDownloads.find_element_by_id("opcao-downloads").click()
+        timeouter = 0
+        while True:
+            time.sleep(0.1)
+            timeouter += 1
+            if timeouter > 100000:
+                break
+            if driver.find_elements_by_class_name("sucesso"):
+                time.sleep(1.5)
+                break
         driver.close()
         print(f"Request {file_name} made.")
         if autoget:
@@ -213,6 +278,7 @@ class Pighunt:
             if kwargs.get("toExtract"):
                 print(kwargs.get("toExtract").keys())
                 for key in kwargs.get("toExtract").keys():
+                    print(key)
                     if kwargs.get("toExtract")[key] == "latest":
                         for i in range(date.today().year, 2016, -1):
                             year = i
@@ -271,8 +337,11 @@ class Pighunt:
                         
             ftpConnection.close()
             return 0
-        
+
+## footer
+
 pigHunt = Pighunt(sidra_login=("pedrozoz.qwerty@gmail.com", "oLOSISTOTAL7!"))
 
 #pigHunt.get_cnes(toExtract={"tbNaturezaJuridica":"latest", "tbTipoUnidade":"latest"})
-#pigHunt.get_pam()
+#pigHunt.get_pam(yearspace=(1981, date.today().year + 6), aqui_yspace=(2020, 2022))
+pigHunt.get_pop()
